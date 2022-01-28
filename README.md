@@ -39,9 +39,9 @@ I'm going to follow Two Main Rules:
 
 - [ ] [Learn JavaScript](#learn-javascript)
 - [ ] [Build an Awesome Portfolio](#build-an-awesome-portfolio)
-- [ ] [Build a Dashboard for my Clients](#build-dashboard)
+- [ ] [Build a Dashboard for my Clients](#build-a-dashboard-for-my-clients)
 - [ ] [Learn React.js](#learn-react.js)
-- [ ] [Start with Artificial Intelligence](#start-ai)
+- [ ] [Start with Artificial Intelligence](#start-with-artificial-intelligence)
 
 
 ---
