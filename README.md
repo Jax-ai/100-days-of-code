@@ -37,11 +37,11 @@ I'm going to follow Two Main Rules:
 
 ## Goals
 
-- [x] [Learn JavaScript](#learn-javascript)
-- [x] [Build an Awesome Portfolio](#build-an-awesome-portfolio)
-- [x] [Build a Dashboard for my Clients](#build-dashboard)
-- [x] [Learn React.js](#learn-react.js)
-- [x] [Start with Artificial Intelligence](#start-ai)
+- [ ] [Learn JavaScript](#learn-javascript)
+- [ ] [Build an Awesome Portfolio](#build-an-awesome-portfolio)
+- [ ] [Build a Dashboard for my Clients](#build-dashboard)
+- [ ] [Learn React.js](#learn-react.js)
+- [ ] [Start with Artificial Intelligence](#start-ai)
 
 
 ---
