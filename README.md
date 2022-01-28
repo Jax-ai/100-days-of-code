@@ -37,7 +37,7 @@ I'm going to follow Two Main Rules:
 
 ## Goals
 
-- [ ] [Learn JavaScript](#learn-javascript)
+- [ ] [Complete the @freeCodeCamp.org JavaScript Algorithms and Data Structures Certification](#@freeCodeCamp.org-javaScript-algorithms-and-data-structures-certification)
 - [ ] [Build an Awesome Portfolio](#build-an-awesome-portfolio)
 - [ ] [Build a Dashboard for my Clients](#build-a-dashboard-for-my-clients)
 - [ ] [Learn React.js](#learn-react.js)
@@ -47,7 +47,7 @@ I'm going to follow Two Main Rules:
 ---
 
 
-### Learn JavaScript
+### @freeCodeCamp.org JavaScript Algorithms and Data Structures Certification
 
 
 ### Build an Awesome Portfolio
