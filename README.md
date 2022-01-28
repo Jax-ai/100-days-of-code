@@ -47,7 +47,7 @@ I'm going to follow Two Main Rules:
 ---
 
 
-### @freeCodeCamp.org JavaScript Algorithms and Data Structures Certification
+### FreeCodeCamp.org JavaScript Algorithms and Data Structures Certification
 
 
 ### Build an Awesome Portfolio
