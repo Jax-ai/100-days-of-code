@@ -1,4 +1,4 @@
-## Day 1 - 3 MAR '22
+## Day 1 - 4 MAR '22
 
 First day in the #100DaysOfCode challenge.
 
