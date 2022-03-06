@@ -6,3 +6,7 @@ Progress:
     - Completed 34 more lessons
     - Almost complete with the Basics
     - Can we complete this course in 1 Week?
+
+## More Updates
+
+Made some more progress, currently at 90//116
